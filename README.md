@@ -25,7 +25,7 @@ I'm a passionate developer with a focus on **Java** and **Python**. I'm currentl
 - **Version Control:** Git, GitHub
 
 ### 🌱 What I'm currently learning:
-I'm currently enhancing my knowledge of web development and exploring **Heroku** for deploying web applications.
+I'm currently enhancing my knowledge of web development.
 
 ### 🎯 My goals:
 - To become proficient in full-stack development.
