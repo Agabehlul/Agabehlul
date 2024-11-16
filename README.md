@@ -33,7 +33,6 @@ I'm currently enhancing my knowledge of web development.
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/a%C4%9Fab%C9%99hlul-ismay%C4%B1lzad%C9%99/)
-- [GitHub](https://github.com/Agabehlul)
 
 Feel free to check out my repositories and reach out if you'd like to collaborate or chat!
 
